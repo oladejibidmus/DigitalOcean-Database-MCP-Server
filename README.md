@@ -1,23 +1,27 @@
-# DigitalOcean Database MCP Server
+<h1 align="center">DigitalOcean Database MCP Server</h1>
 
-<div align="center">
+<p align="center">
+<strong>🌊 DigitalOcean</strong> • <strong>⚡ TypeScript</strong> • <strong>🐘 PostgreSQL</strong> • <strong>🐬 MySQL</strong>
+</p>
 
-**🌊 DigitalOcean** • **⚡ TypeScript** • **🐘 PostgreSQL** • **🐬 MySQL**
+<p align="center">
+<strong>Connect AI-powered IDEs to your DigitalOcean databases with just an API token!</strong>
+</p>
 
-**Connect AI-powered IDEs to your DigitalOcean databases with just an API token!**
+<p align="center">
+<em>Compatible with: 🎯 Cursor AI • 🤖 Claude Desktop • 🌊 Windsurf • 💻 VS Code • ⚡ Zed • 🔧 Any MCP Client</em>
+</p>
 
-*Compatible with: 🎯 Cursor AI • 🤖 Claude Desktop • 🌊 Windsurf • 💻 VS Code • ⚡ Zed • 🔧 Any MCP Client*
+<p align="center">
+<em>GitHub badges (will display properly on GitHub):</em>
+</p>
 
----
-
-*GitHub badges (will display properly on GitHub):*
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ## 🚀 Overview
 
@@ -59,7 +63,7 @@ Once connected, you can interact with your databases through natural language:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/digitalocean-database-mcp.git
+git clone https://github.com/oladejibidmus/digitalocean-database-mcp.git
 cd digitalocean-database-mcp
 ```
 
@@ -460,22 +464,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/digitalocean-database-mcp/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/digitalocean-database-mcp/discussions)
-- 📚 **Documentation**: Check the [wiki](https://github.com/yourusername/digitalocean-database-mcp/wiki)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/oladejibidmus/digitalocean-database-mcp/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/oladejibidmus/digitalocean-database-mcp/discussions)
+- 📚 **Documentation**: Check the [wiki](https://github.com/oladejibidmus/digitalocean-database-mcp/wiki)
 
 ---
 
-<div align="center">
+<p align="center">
+<strong>Made with ❤️ for the AI-powered development community</strong>
+</p>
 
-**Made with ❤️ for the AI-powered development community**
+<p align="center">
+<em>GitHub star badge: https://github.com/oladejibidmus/digitalocean-databaase-mcp</em>
+</p>
 
-*GitHub star badge (will display properly on GitHub):*
+<p align="center">
+<img src="https://img.shields.io/github/stars/oladejibidmus/digitalocean-database-mcp?style=for-the-badge&logo=github" alt="GitHub Stars">
+</p>
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/digitalocean-database-mcp?style=for-the-badge&logo=github)
+<p align="center">
+🌟 <strong><a href="https://github.com/oladejibidmus/digitalocean-database-mcp">Star this repo on GitHub</a></strong>
+</p>
 
-🌟 **[Star this repo on GitHub](https://github.com/yourusername/digitalocean-database-mcp)**
-
-**Works with:** 🎯 Cursor AI • 🤖 Claude Desktop • 🌊 Windsurf • 💻 VS Code • ⚡ Zed • 🔧 Any MCP Client
-
-</div>
+<p align="center">
+<strong>Works with:</strong> 🎯 Cursor AI • 🤖 Claude Desktop • 🌊 Windsurf • 💻 VS Code • ⚡ Zed • 🔧 Any MCP Client
+</p>
