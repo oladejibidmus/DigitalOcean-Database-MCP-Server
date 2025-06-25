@@ -63,7 +63,7 @@ Once connected, you can interact with your databases through natural language:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/oladejibidmus/digitalocean-database-mcp.git
+git clone https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server.git
 cd digitalocean-database-mcp
 ```
 
@@ -464,9 +464,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/oladejibidmus/digitalocean-database-mcp/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/oladejibidmus/digitalocean-database-mcp/discussions)
-- 📚 **Documentation**: Check the [wiki](https://github.com/oladejibidmus/digitalocean-database-mcp/wiki)
+- 🐛 **Bug Reports**: [Open an issue](https://https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server/discussions)
+- 📚 **Documentation**: Check the [wiki](https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server/wiki)
 
 ---
 
@@ -475,15 +475,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-<em>GitHub star badge: https://github.com/oladejibidmus/digitalocean-databaase-mcp</em>
+<em>GitHub star badge: https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server</em>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/oladejibidmus/digitalocean-database-mcp?style=for-the-badge&logo=github" alt="GitHub Stars">
+<img src="https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server" alt="GitHub Stars">
 </p>
 
 <p align="center">
-🌟 <strong><a href="https://github.com/oladejibidmus/digitalocean-database-mcp">Star this repo on GitHub</a></strong>
+🌟 <strong><a href="https://github.com/oladejibidmus/DigitalOcean-Database-MCP-Server">Star this repo on GitHub</a></strong>
 </p>
 
 <p align="center">
